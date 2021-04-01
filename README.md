@@ -1,4 +1,4 @@
-To teach myself data structures and algorithms, produce some codes while reading:
+I produce some codes to teach myself data structures and algorithms while reading:
    * Data Structures and Algorithms in Python
    Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser
    John Wiley & Sons, 2013
